@@ -30,7 +30,6 @@ yarn-error.log*
 .env.production.local
 
 #auto-generated
-package-lock.json
 yarn.lock
 
 #IDE
